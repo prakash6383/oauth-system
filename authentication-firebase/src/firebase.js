@@ -2,12 +2,12 @@ import firebase from "firebase/compat/app"
 import "firebase/compat/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyA4R0br_Ofe2IwWK6xEKLusnWv9Q40WDfU",
-  authDomain: "auth-gfg.firebaseapp.com",
-  projectId: "auth-gfg",
-  storageBucket: "auth-gfg.appspot.com",
-  messagingSenderId: "766256406594",
-  appId: "1:766256406594:web:a4961f560e247bf38e0ddb"
+  apiKey: xxxxx,
+  authDomain: xxxxx,
+  projectId: xxxxx,
+  storageBucket: xxxxx,
+  messagingSenderId: xxxxx,
+  appId: xxxxx
 };
 
   const firebaseApp = firebase.initializeApp(firebaseConfig);
